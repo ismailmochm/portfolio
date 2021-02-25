@@ -292,7 +292,7 @@ img{
 .home__img {
   position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: 5rem;
 }
 
 .home__img img{
@@ -749,6 +749,8 @@ img{
 
   .about__img{
     width: 300px;
+    margin-left: 5rem;
+    margin-top: 5rem;
   }
 
   .qualification__box{
